@@ -21,7 +21,7 @@ docker-compose up -d
 ## Usage
 Goto:
 
- + http://localhost:8085
+ + http://localhost
 
 ## Folder Structure
 
@@ -51,6 +51,7 @@ Enjoy!
 ## History
 
  + m@Ver_1.0.0
+ + m@Ver_1.0.1
 
 ## Credits
 
